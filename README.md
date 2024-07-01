@@ -1,6 +1,7 @@
 # movie-seat-booking
 this is online booking ticket movies and calculate total price for seats and price movie
-link:
+
+link wepsite: pick-movies-online.netlify.app
 
 
 ## featuers
