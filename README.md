@@ -3,8 +3,7 @@ this is online booking ticket movies and calculate total price for seats and pri
 
 link wepsite: 
 
-pick-movies-online.netlify.app
-
+https://pick-movies-online.netlify.app
 
 ## featuers
 1-pick your favorite movie.
