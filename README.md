@@ -1,20 +1,19 @@
-# movie-seat-booking
-this is online booking ticket movies and calculate total price for seats and price movie
+## Movie Seat Booking
+
+Display movie choices and seats in a theater to select from in order to purchase tickets
 
 link wepsite: 
 
 https://pick-movies-online.netlify.app
 
-## featuers
-1-pick your favorite movie.
 
-2-pick  seats of cinema.
 
-3-can see each movie has a different price.
+## Project Specifications
 
-4-little legend shows us that blue is selected,white is occupied and gry is open.
-
-5-show number of seats you selected and price.
-
-6-save your last changed and update calculations of total price
+- Display UI with movie select, screen, seats, legend & seat info
+- User can select a movie/price
+- User can select/deselect seats
+- User can not select occupied seats
+- Number of seats and price will update
+- Save seats, movie and price to local storage so that UI is still populated on refresh
 
